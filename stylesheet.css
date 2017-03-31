@@ -1,0 +1,97 @@
+/* stylesheet.css*/
+
+#sign-in { 
+    display: block;
+    margin: auto;
+}
+
+#the-site {
+    
+}
+
+.rad-navbar {
+    position: relative;
+}
+
+img {
+    max-width: 35%;
+    max-height: 45%;
+    display: block;
+    margin: auto;
+}
+
+.navbar {
+    width: 550px;
+    height: 52px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#container {
+    width: 550px;
+    height: 52px;
+    position: absolute;
+}
+
+#page-menu {
+    height: 84px;
+    position: absolute;
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+}
+
+ul#navbar-items {
+    list-style: none;
+}
+
+ul#navbar-items li {
+    display: inline;
+    padding-left: 23px;
+    text-align: center;
+}
+
+li:hover {
+    background-color: red;
+}
+
+#liked-posts {
+    text-align: left;
+}
+
+#whats-hot {
+    text-align: center;
+}
+
+button.latest {
+    width: 65px;
+    height: 34px;
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+button.filter {
+    width: 65px;
+    height: 34px;
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+button.talk {
+    width: 65px;
+    height: 34px;
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+textarea {
+    max-width: 555px;
+}
